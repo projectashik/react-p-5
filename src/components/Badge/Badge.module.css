@@ -1,0 +1,6 @@
+.Badge {
+  padding: 0.5rem 1rem;
+  background-color: var(--primary);
+  font-weight: 800;
+  border-radius: 0.8rem;
+}

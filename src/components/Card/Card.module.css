@@ -1,0 +1,25 @@
+.Card {
+  max-width: 350px;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0.5rem 0.5rem 0 var(--black);
+  border: 1px solid var(--black);
+}
+
+.Description {
+  color: var(--grey);
+}
+
+.CardImg {
+  border-radius: 0.5rem;
+}
+
+.Author {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
